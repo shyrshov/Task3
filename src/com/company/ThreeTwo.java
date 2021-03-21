@@ -1,7 +1,7 @@
 package com.company;
 
 public class ThreeTwo {
-    public static <string> void main (String[] args) {
+    public static void main (String[] args) {
         String a = "FSRHgjhgfhg";
          if (a.length() >= 2 ) {
              String b = a.substring(0, 2);

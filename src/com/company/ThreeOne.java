@@ -1,7 +1,7 @@
 package com.company;
 
 public class ThreeOne {
-    public static <string> void main (String[] args) {
+    public static void main (String[] args) {
         String firstName = "Den";
         String lastName = "Brown";
         char a = '-';
